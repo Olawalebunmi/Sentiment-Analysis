@@ -10,11 +10,7 @@ This project implements a sentiment analysis system using **Long Short-Term Memo
 - LSTM model with embeddings and dropout.
 - Evaluation with confusion matrix & classification report.
 
-## Requirements
-```bash
-pip install pandas scikit-learn tensorflow nltk textblob transformers
-
-Workflow
+## Workflow
 1. Data Preparation: Load dataset, clean text, assign sentiment labels.
 2. Preprocessing: Tokenize and pad sequences, encode labels.
 3. Model Architecture:

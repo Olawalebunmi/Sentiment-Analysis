@@ -1,0 +1,8 @@
+## Requirements
+
+pandas 
+scikit-learn 
+tensorflow 
+nltk 
+textblob 
+transformers
