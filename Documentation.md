@@ -18,7 +18,7 @@ This project implements a sentiment analysis system using **Long Short-Term Memo
 - LSTM (128 units, dropout 0.5)
 - Dense softmax output (3 classes)
 4. Training: Early stopping, 5 epochs, batch size 64.
-5. - Evaluation:
+5. Evaluation:
 - Accuracy: ~80%
 - Positive class: strong precision/recall
 - Negative class: good recall
