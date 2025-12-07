@@ -4,11 +4,8 @@ Sentiment Analysis with LSTM – My hands‑on deep learning project where I app
 ## Overview
 This project trains an **LSTM neural network** to classify text sentiment into **positive, neutral, or negative** using New Year’s resolution tweets.
 
-## Requirements
-```bash
-pip install pandas scikit-learn tensorflow nltk textblob transformers
 
-Workflow
+## Workflow
 - Preprocess text (clean, tokenize, remove stopwords).
 - Label sentiment with TextBlob polarity.
 - Convert text to padded sequences.
