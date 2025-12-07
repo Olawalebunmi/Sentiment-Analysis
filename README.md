@@ -27,4 +27,4 @@ def predict_sentiment(text):
     return ['negative','neutral','positive'][pred]
 
 print(predict_sentiment("I want to study in the new year."))
-# Output: positive
+Output: positive
